@@ -35,7 +35,7 @@ To create an index pattern to connect to Elasticsearch:
 
 . Go to the *Settings > Indices* tab.
 . Specify an index pattern that matches the name of one or more of your Elasticsearch 
-indices. By default, Kibana guesses that you're you're working with log data being 
+indices. By default, Kibana guesses that you're working with log data being 
 fed into Elasticsearch by Logstash.
 +
 NOTE: When you switch between top-level tabs, Kibana remembers where you were.
